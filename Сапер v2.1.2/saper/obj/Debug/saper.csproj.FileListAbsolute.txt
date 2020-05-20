@@ -1,0 +1,10 @@
+C:\Users\shadow2rock\source\repos\saper\bin\Debug\saper.exe.config
+C:\Users\shadow2rock\source\repos\saper\bin\Debug\saper.exe
+C:\Users\shadow2rock\source\repos\saper\bin\Debug\saper.pdb
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.csprojAssemblyReference.cache
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.Properties.Resources.resources
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.csproj.GenerateResource.cache
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.csproj.CoreCompileInputs.cache
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.exe
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.pdb
+C:\Users\shadow2rock\source\repos\saper\obj\Debug\saper.Form1.resources
